@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact: **Turning data into actionable insights!**
 
+---
+
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/arijit-kr-sarkar" target="blank">
@@ -25,7 +27,9 @@
   </a>
 </p>
 
-### 🛠 Languages and Tools:
+---
+
+### 🛠 Skills and Tools:
 <p align="left">
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png" alt="Power BI" width="40" height="40"/>
@@ -40,7 +44,7 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="SQL Server Management Studio" width="40" height="40"/> 
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="40" height="40"/>
@@ -50,8 +54,10 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijitsarkar903&show_icons=true&locale=en&layout=compact" alt="arijitsarkar903" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijitsarkar903&show_icons=true&locale=en" alt="arijitsarkar903" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijitsarkar903&show_icons=true&locale=en&layout=compact&theme=radical" alt="arijitsarkar903" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijitsarkar903&" alt="arijitsarkar903" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijitsarkar903&show_icons=true&locale=en&theme=radical" alt="arijitsarkar903" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijitsarkar903&theme=radical" alt="arijitsarkar903" /></p>
