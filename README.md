@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **data-driven projects that leverage analytical insights to solve complex problems.**
 
-- 💬 Ask me about: **Power BI, SQL, Python, and Data Analysis**
+- 💬 Ask me about: **Power BI, SQL, Python, SPSS and Data Analysis**
 
 - 📫 How to reach me: **sarkararijit22071999@gmail.com**
 
@@ -48,19 +48,20 @@
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-excel-logo-icon-download-in-svg-png-gif-file-formats--logos-pack-icons-722715.png" alt="Excel" width="40" height="40"/>
   </a>
+  <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer">
+    <img src="https://www.kindpng.com/picc/m/296-2969947_spss-logo-png-transparent-png.png" alt="SPSS" width="40" height="40"/>
+  </a>
 </p>
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijitsarkar903&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=arijitsarkar903&show_icons=true&theme=radical&locale=en" alt="arijitsarkar903" />
+</div>
 
-  <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arijitsarkar903&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  </p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arijitsarkar903&theme=radical" alt="arijitsarkar903" />
+</div>
 
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijitsarkar903&theme=radical" alt="GitHub Streak" />
-  </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arijitsarkar903&show_icons=true&theme=radical&locale=en&layout=compact" alt="arijitsarkar903" />
 </div>
