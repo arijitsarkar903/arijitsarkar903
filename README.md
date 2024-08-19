@@ -9,23 +9,23 @@
 
 - 👯 I’m looking to collaborate on **data-driven projects that leverage analytical insights to solve complex problems.**
 
-- 💬 Ask me about **Power BI, SQL, Python, and Data Analysis**
+- 💬 Ask me about: **Power BI, SQL, Python, and Data Analysis**
 
-- 📫 How to reach me **sarkararijit22071999@gmail.com**
+- 📫 How to reach me: **sarkararijit22071999@gmail.com**
 
-- ⚡ Fun fact **Turning data into actionable insights!**
+- ⚡ Fun fact: **Turning data into actionable insights!**
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/arijit-kr-sarkar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="arijit-kr-sarkar" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:sarkararijit22071999@gmail.com" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="sarkararijit22071999@gmail.com" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠 Languages and Tools:
 <p align="left">
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png" alt="Power BI" width="40" height="40"/>
