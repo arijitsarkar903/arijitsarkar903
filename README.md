@@ -50,8 +50,17 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijitsarkar903&show_icons=true&locale=en&layout=compact" alt="arijitsarkar903" /></p>
+### 📊 GitHub Stats:
+<div align="center">
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijitsarkar903&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijitsarkar903&show_icons=true&locale=en" alt="arijitsarkar903" /></p>
+  <p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arijitsarkar903&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijitsarkar903&" alt="arijitsarkar903" /></p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijitsarkar903&theme=radical" alt="GitHub Streak" />
+  </p>
+</div>
