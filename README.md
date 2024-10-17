@@ -11,7 +11,8 @@
 
 - 💬 Ask me about: **Power BI, SQL, Python, SPSS and Data Analysis**
 
-- 📫 How to reach me: **arijitsarkar903@gmail.com**/**sarkararijit22071999@gmail.com**
+- 📫 How to reach me: **arijitsarkar903@gmail.com**/
+                      **sarkararijit22071999@gmail.com**
 
 - ⚡ Fun fact: **Turning data into actionable insights!**
 
